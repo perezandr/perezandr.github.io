@@ -1,0 +1,31 @@
+{
+  "projects": [
+    {
+      "id": 1,
+      "title": "Pokedex",
+      "description": "A simple Pokedex to search information about your favourite Pokemon. This project was the assignement for the React Code Week given for the Edgemony Bootcamp. I used the RESTful PokeAPI, fetching and processing the data that i needed to populate the Pokedex page. I also used Recharts library to show the stats of each Pokemon.",
+      "image": "src/assets/images/pokedex.png",
+      "skills": ["HTML", "CSS3", "Sass", "JavaScript", "ReactJS", "NextJS"],
+      "vercelLink": "https://pokedex-sigma-gilt.vercel.app/",
+      "gitHubLink": "https://github.com/perezandr/Pokedex"
+    },
+    {
+      "id": 2,
+      "title": "Pokedex",
+      "description": "A simple Pokedex to search information about your favourite Pokemon. This project was the assignement for the React Code Week given for the Edgemony Bootcamp. I used the RESTful PokeAPI, fetching and processing the data that i needed to populate the Pokedex page. I also used Recharts library to show the stats of each Pokemon.",
+      "image": "src/assets/images/pokedex.png",
+      "skills": ["HTML", "CSS3", "Sass", "JavaScript", "ReactJS", "NextJS"],
+      "vercelLink": "https://pokedex-sigma-gilt.vercel.app/",
+      "gitHubLink": "https://github.com/perezandr/Pokedex"
+    },
+    {
+      "id": 3,
+      "title": "Pokedex",
+      "description": "A simple Pokedex to search information about your favourite Pokemon. This project was the assignement for the React Code Week given for the Edgemony Bootcamp. I used the RESTful PokeAPI, fetching and processing the data that i needed to populate the Pokedex page. I also used Recharts library to show the stats of each Pokemon.",
+      "image": "src/assets/images/pokedex.png",
+      "skills": ["HTML", "CSS3", "Sass", "JavaScript", "ReactJS", "NextJS"],
+      "vercelLink": "https://pokedex-sigma-gilt.vercel.app/",
+      "gitHubLink": "https://github.com/perezandr/Pokedex"
+    }
+  ]
+}

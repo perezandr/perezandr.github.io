@@ -1,0 +1,38 @@
+.HeroContainer {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-end;
+  margin: 0 auto;
+  margin-top: 15vh;
+
+  h1,
+  p {
+    margin: 0;
+  }
+
+  .HeroTitle {
+    font-size: 4.5em;
+  }
+
+  .HeroText {
+    font-weight: 200;
+    font-size: 1.3em;
+    line-height: 40px;
+    margin: 80px 0;
+  }
+
+  @media (max-width: 767px) {
+    .HeroContainer {
+      margin-top: 15vh;
+    }
+    .HeroTitle {
+      font-size: 2.3em;
+    }
+    .HeroText {
+      font-size: 1.2em;
+      line-height: 30px;
+      max-width: 100%;
+      margin: 50px 0;
+    }
+  }
+}

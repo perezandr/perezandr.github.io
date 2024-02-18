@@ -1,0 +1,23 @@
+.NavBarContainer {
+  display: flex;
+  justify-content: flex-end;
+  margin: 0 auto;
+
+  .NavBar {
+    display: flex;
+    justify-content: space-around;
+    width: 286px;
+    font-size: 1.2em;
+    margin-top: 40px;
+  }
+}
+
+@media (max-width: 767px) {
+  .NavBarContainer {
+    justify-content: center;
+    width: 75%;
+  }
+  .NavBar {
+    font-size: 1em;
+  }
+}
