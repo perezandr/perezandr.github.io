@@ -2,4 +2,6 @@
 
 Hi! This is my portfolio repository.
 
-At [text](https://perezandr.github.io/) you can take a look at my projects and contacts.
+At [this link](https://perezandr.github.io/) you can take a look at my projects.
+
+Let's keep in touch!
