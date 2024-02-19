@@ -13,7 +13,7 @@
       "id": 2,
       "title": "Frontend for streaming platform",
       "description": "A frontend clone of the most famous streaming platform. I made this project as assignement for the first code week of the Edgemony bootcamp. The app is made in JavaScript and CSS. I used The Movie Database API to fetch the movie information.",
-      "image": "",
+      "image": "/images/netflixClone.png",
       "skills": ["HTML", "CSS3", "JavaScript"],
       "vercelLink": "https://frontend-for-streaming-platform.vercel.app/",
       "gitHubLink": "https://github.com/perezandr/Frontend-for-streaming-platform"
