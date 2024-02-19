@@ -15,6 +15,9 @@ function App() {
           <Navbar />
           <Hero />
           <AboutMe />
+          <h2 id="Skills" className={styles.SectionTitle}>
+            Skills
+          </h2>
           <h2 id="Projects" className={styles.SectionTitle}>
             Projects
           </h2>

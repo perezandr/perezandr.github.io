@@ -9,6 +9,11 @@
     width: 286px;
     font-size: 1.2em;
     margin-top: 40px;
+
+    a:hover {
+      color: #bacf2c;
+      transition: color 0.3s ease;
+    }
   }
 }
 

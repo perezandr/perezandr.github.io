@@ -3,7 +3,7 @@
     {
       "id": 1,
       "title": "Pokedex",
-      "description": "A simple Pokedex to search information about your favourite Pokemon. This project was the assignement for the React Code Week given for the Edgemony Bootcamp. I used the RESTful PokeAPI, fetching and processing the data that i needed to populate the Pokedex page. I also used Recharts library to show the stats of each Pokemon.",
+      "description": "A simple Pokedex to search information about your favourite Pokemon. This project was the assignement for the React Code Week given for the Edgemony bootcamp. I used the RESTful PokeAPI, fetching and processing the data that i needed to populate the Pokedex page. I also used Recharts library to show the stats of each Pokemon.",
       "image": "/images/pokedex.png",
       "skills": ["HTML", "CSS3", "Sass", "JavaScript", "ReactJS", "NextJS"],
       "vercelLink": "https://pokedex-sigma-gilt.vercel.app/",
@@ -11,21 +11,12 @@
     },
     {
       "id": 2,
-      "title": "Pokedex",
-      "description": "A simple Pokedex to search information about your favourite Pokemon. This project was the assignement for the React Code Week given for the Edgemony Bootcamp. I used the RESTful PokeAPI, fetching and processing the data that i needed to populate the Pokedex page. I also used Recharts library to show the stats of each Pokemon.",
-      "image": "/images/pokedex.png",
-      "skills": ["HTML", "CSS3", "Sass", "JavaScript", "ReactJS", "NextJS"],
-      "vercelLink": "https://pokedex-sigma-gilt.vercel.app/",
-      "gitHubLink": "https://github.com/perezandr/Pokedex"
-    },
-    {
-      "id": 3,
-      "title": "Pokedex",
-      "description": "A simple Pokedex to search information about your favourite Pokemon. This project was the assignement for the React Code Week given for the Edgemony Bootcamp. I used the RESTful PokeAPI, fetching and processing the data that i needed to populate the Pokedex page. I also used Recharts library to show the stats of each Pokemon.",
-      "image": "/images/pokedex.png",
-      "skills": ["HTML", "CSS3", "Sass", "JavaScript", "ReactJS", "NextJS"],
-      "vercelLink": "https://pokedex-sigma-gilt.vercel.app/",
-      "gitHubLink": "https://github.com/perezandr/Pokedex"
+      "title": "Frontend for streaming platform",
+      "description": "A frontend clone of the most famous streaming platform. I made this project as assignement for the first code week of the Edgemony bootcamp. The app is made in JavaScript and CSS. I used The Movie Database API to fetch the movie information.",
+      "image": "",
+      "skills": ["HTML", "CSS3", "JavaScript"],
+      "vercelLink": "https://frontend-for-streaming-platform.vercel.app/",
+      "gitHubLink": "https://github.com/perezandr/Frontend-for-streaming-platform"
     }
   ]
 }
