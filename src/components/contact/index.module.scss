@@ -1,0 +1,15 @@
+.ContactSection {
+  display: flex;
+  justify-content: center;
+  text-align: center;
+  gap: 50px;
+  margin-top: 80px;
+  padding-bottom: 80px;
+  font-size: 1.2em;
+}
+
+@media (max-width: 767px) {
+  .ContactSection {
+    flex-direction: column;
+  }
+}

@@ -19,8 +19,12 @@ const ProjectCard = ({ cardData }) => {
           })}
         </div>
         <div className={styles.ProjectLinks}>
-          <a href={vercelLink}>Demo</a>
-          <a href={gitHubLink}>GitHub</a>
+          <a className={styles.VercelLink} href={vercelLink}>
+            Demo
+          </a>
+          <a className={styles.GitHubLink} href={gitHubLink}>
+            GitHub
+          </a>
         </div>
       </div>
     </div>
