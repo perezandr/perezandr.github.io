@@ -1,6 +1,7 @@
 import Navbar from "./components/navbar/index";
 import Hero from "./components/hero/index";
 import AboutMe from "./components/aboutMe/AboutMe";
+import Skills from "./components/skills/Skills";
 import ProjectCard from "./components/projectCard/ProjectCard";
 import Contact from "./components/contact/Contact";
 import Footer from "./components/footer/Footer";
@@ -18,6 +19,7 @@ function App() {
           <h2 id="Skills" className={styles.SectionTitle}>
             Skills
           </h2>
+          <Skills />
           <h2 id="Projects" className={styles.SectionTitle}>
             Projects
           </h2>
