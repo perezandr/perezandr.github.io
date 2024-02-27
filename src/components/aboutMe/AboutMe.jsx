@@ -11,7 +11,7 @@ const AboutMe = () => {
           ancient-history: 100%;
           snorkeling: 100%;
           cooking: 100%;
-          handcrafting: 100%;
+          handicraft: 100%;
         }
     
         .education {
