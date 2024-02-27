@@ -1,0 +1,21 @@
+.ButtonContainer {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+  .CVDownload {
+    font-weight: 500;
+    font-size: 1.5em;
+    text-align: center;
+    margin-top: 50px;
+    padding: 20px;
+    box-shadow: 0 4px 6px #2e3440;
+    border-radius: 4px;
+    letter-spacing: 0.025em;
+    font-weight: 600;
+    background: #bacf2c;
+    color: #f7f6f5;
+    cursor: pointer;
+    display: inline-block;
+  }
+}

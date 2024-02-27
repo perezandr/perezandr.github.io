@@ -1,6 +1,7 @@
 import Navbar from "./components/navbar/index";
 import Hero from "./components/hero/index";
 import AboutMe from "./components/aboutMe/AboutMe";
+import DownloadButton from "./components/downloadButton/DownloadButton";
 import Skills from "./components/skills/Skills";
 import ProjectCard from "./components/projectCard/ProjectCard";
 import Contact from "./components/contact/Contact";
@@ -16,6 +17,7 @@ function App() {
           <Navbar />
           <Hero />
           <AboutMe />
+          <DownloadButton />
           <h2 id="Skills" className={styles.SectionTitle}>
             Skills
           </h2>
