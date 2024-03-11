@@ -5,7 +5,7 @@ const DownloadButton = () => {
     <div className={style.ButtonContainer}>
       <a
         className={style.CVDownload}
-        href="/download/Resume_AndreaP.pdf"
+        href="/download/Andrea_Perez_Resume.pdf"
         download="Andrea_Perez_Resume.pdf"
       >
         Download my CV
