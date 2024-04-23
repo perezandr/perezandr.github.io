@@ -2,6 +2,24 @@
   "projects": [
     {
       "id": 1,
+      "title": "Growy",
+      "description": "Growy is a web app for the management of personal daily activities. Gamification elements were integrated to motivate the user to use the app. The app was developed in team as a final project of a coding bootcamp.",
+      "image": "/images/growy.png",
+      "skills": [
+        "HTML",
+        "CSS3",
+        "Sass",
+        "JavaScript",
+        "ReactJS",
+        "NextJS",
+        "NodeJS",
+        "MongoDB"
+      ],
+      "vercelLink": "https://growy.vercel.app/",
+      "gitHubLink": "https://github.com/perezandr/growy"
+    },
+    {
+      "id": 2,
       "title": "Pokedex",
       "description": "A simple Pokedex to search information about your favourite Pokemon. This project was the assignement for the React Code Week given for the Edgemony bootcamp. I used the RESTful PokeAPI, fetching and processing the data that i needed to populate the Pokedex page. I also used Recharts library to show the stats of each Pokemon.",
       "image": "/images/pokedex.png",
@@ -10,7 +28,7 @@
       "gitHubLink": "https://github.com/perezandr/Pokedex"
     },
     {
-      "id": 2,
+      "id": 3,
       "title": "ToDo List",
       "description": "I made this ToDo list as an exercise to study React Redux (and to remind myself to fight my procrastination too :P)",
       "image": "/images/todolist.png",
@@ -19,7 +37,7 @@
       "gitHubLink": "https://github.com/perezandr/todo-list-redux"
     },
     {
-      "id": 3,
+      "id": 4,
       "title": "Frontend for streaming platform",
       "description": "A frontend clone of the most famous streaming platform. I made this project as assignement for the first code week of the Edgemony bootcamp. The app is made in JavaScript and CSS. I used The Movie Database API to fetch the movie information.",
       "image": "/images/netflixClone.png",
