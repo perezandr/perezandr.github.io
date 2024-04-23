@@ -24,6 +24,10 @@ const Skills = () => {
         <p>Sass</p>
       </div>
       <div className={styles.ImageContainer}>
+        <img src="/icons/nodejs.svg" alt="NodeJS" />
+        <p>Node.js</p>
+      </div>
+      <div className={styles.ImageContainer}>
         <img src="/icons/nextjs.svg" alt="NextJS" />
         <p>Next.js</p>
       </div>
